@@ -17,6 +17,11 @@ A comprehensive overview of my software and hardware projects
 | Desktop Application     | [Markit][a2]                        |
 | Mobile Application      | Irish Link: [API][a3] and [iOS][a4] |
 | Static Website          | [willmarkley.com][a5]               |
+
+## Research Software
+
+| Artifact                | Repository                          |
+|-------------------------|-------------------------------------|
 | Command Line Program    | [Trout][a6]                         |
 
 ## Miscellaneous Software
